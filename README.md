@@ -1,2 +1,2 @@
 # Aulagit
-Aula da universidade sobre uso do git
+Repositório para testar as funcionalidades do git
